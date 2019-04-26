@@ -30,6 +30,11 @@
 - [第三章 在思域车上等到天亮](https://github.com/hmsjy2017/jieyouzahuodian#第三章-在思域车上等到天亮)
   - [1](https://github.com/hmsjy2017/jieyouzahuodian#1-2)
   - [2](https://github.com/hmsjy2017/jieyouzahuodian#2-2)
+  - [3](https://github.com/hmsjy2017/jieyouzahuodian#3-2)
+  - [4](https://github.com/hmsjy2017/jieyouzahuodian#4-2)
+  - [5](https://github.com/hmsjy2017/jieyouzahuodian#5-2)
+  - [6](https://github.com/hmsjy2017/jieyouzahuodian#6-2)
+  - [7](https://github.com/hmsjy2017/jieyouzahuodian#7-2)
 
 
 ------章节内容开始-------
