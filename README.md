@@ -19,7 +19,7 @@
 - [第二章 深夜的口琴声](https://github.com/hmsjy2017/jieyouzahuodian#第二章-深夜的口琴声)
   - [1](https://github.com/hmsjy2017/jieyouzahuodian#1-1) 
   - [2](https://github.com/hmsjy2017/jieyouzahuodian#2-1) 
-  - [3](https://github.com/hmsjy2017/jieyouzahuodian#3-1）
+  - [3](https://github.com/hmsjy2017/jieyouzahuodian#3-1)
   - [4](https://github.com/hmsjy2017/jieyouzahuodian#4-1) 
   - [5](https://github.com/hmsjy2017/jieyouzahuodian#5-1) 
   - [6](https://github.com/hmsjy2017/jieyouzahuodian#6-1) 
